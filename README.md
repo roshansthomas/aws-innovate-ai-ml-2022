@@ -29,3 +29,17 @@ In this lab we will extract the features of a text document using Amazon Textrac
 Duration: Approximately 45 minutes
 
 [View lab instructions](https://github.com/roshansthomas/nlp-lab)
+
+## [Automating code  review with Amazon CodeGuru Reviewer](https://github.com/phonghuule/amazon-code-guru-sample)
+This lab will  walk you through how to associate Amazon CodeGuru with your repo and automate  code review by using Amazon CodeGuru Reviewer
+
+Duration: Approximately 45 minutes
+
+[View lab instructions](https://github.com/phonghuule/amazon-code-guru-sample)
+
+## [Detect Protective Equipment with Amazon Rekognition](https://github.com/phonghuule/amazon-rekognition-ppe)
+Amazon Rekognition can detect Personal Protective Equipment (PPE) worn by persons in an image. You can use this information to improve workplace safety practices. In this lab, we are going to build a serverless web application to process frames from camera feeds for PPE detection.
+
+Duration: Approximately 60 minutes
+
+[View lab instructions](https://github.com/phonghuule/amazon-rekognition-ppe)
