@@ -63,4 +63,4 @@ In this lab, we demonstrate how to build an end-to-end machine learning workflow
 
 Duration: Approximately 60 minutes
 
-[View lab instructions](https://github.com/phonghuule/amazon-rekognition-ppe)
+[View lab instructions](https://github.com/aws-samples/amazon-sagemaker-mlops-with-featurestore-and-datawrangler)
