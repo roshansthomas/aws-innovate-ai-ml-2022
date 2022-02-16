@@ -43,3 +43,24 @@ Amazon Rekognition can detect Personal Protective Equipment (PPE) worn by person
 Duration: Approximately 60 minutes
 
 [View lab instructions](https://github.com/phonghuule/amazon-rekognition-ppe)
+
+## [Deploy machine learning inference on AWS Lambda and Amazon EFS](https://github.com/aws-samples/ml-inference-using-aws-lambda-and-amazon-efs)
+Learn how to deploy multiple machine learning models for inference on AWS Lambda and Amazon Elastic File Storage (Amazon EFS). In this repo, you will find all the codes needed to deploy your application for machine learning inference using AWS Lambda and Amazon EFS.
+
+Duration: Approximately 60 minutes
+
+[View lab instructions](https://github.com/aws-samples/ml-inference-using-aws-lambda-and-amazon-efs)
+
+## [Amazon SageMaker components for Kubeflow pipelines](https://github.com/kubeflow/pipelines/tree/master/components/aws/sagemaker)
+In this lab, learn how to install Kubeflow on Amazon EKS, run a single-node training, and inference using TensorFlow, train and deploy model locally and remotely using Kubeflow Fairing, setup Kubeflow pipeline, and review how to call AWS managed services such as Amazon SageMaker for training and inference.
+
+Duration: Approximately 60 minutes
+
+[View lab instructions](https://github.com/kubeflow/pipelines/tree/master/components/aws/sagemaker)
+
+## [Operationalize a Machine Learning model with Amazon SageMaker Featurestore and Amazon SageMaker DataWrangler Using CDK](https://github.com/aws-samples/amazon-sagemaker-mlops-with-featurestore-and-datawrangler)
+In this lab, we demonstrate how to build an end-to-end machine learning workflow including automated pipelines such as feature jobs and storing into SageMaker Feature Store, training and validating your models, deploying real-time endpoints, and batch inference to periodically store a large data set.
+
+Duration: Approximately 60 minutes
+
+[View lab instructions](https://github.com/phonghuule/amazon-rekognition-ppe)
